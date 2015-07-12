@@ -1,0 +1,3 @@
+[submodule "src/bosh-softlayer-cpi"]
+	path = src/bosh-softlayer-cpi
+	url = https://github.com/zhang-hua/bosh-softlayer-cpi
